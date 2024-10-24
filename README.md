@@ -1,5 +1,5 @@
 # Distributor's Pallet Loading Problem Instance Generator
-This repository contains Python scripts for generating instances of the Distributor's Pallet Loading Problem (DPLP), focusing on the optimal loading of boxes onto 3D pallets.
+This repository contains Python script for generating instances of the Distributor's Pallet Loading Problem (DPLP), focusing on the optimal loading of boxes onto 3D pallets.
 ## [Solving a Real-Life Distributor’s Pallet Loading Problem](https://www.mdpi.com/2297-8747/26/3/53)
 _Overview_
 
